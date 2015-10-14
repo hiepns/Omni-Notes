@@ -84,7 +84,6 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom|left"
                     android:layout_marginRight="15dp"
-                    android:alpha="0.5"
                     android:gravity="bottom|start"
                     android:textAppearance="@style/Text.Small"
                     pixlui:typeface="Roboto-Regular.ttf" />
