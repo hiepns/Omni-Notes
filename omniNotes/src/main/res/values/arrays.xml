@@ -193,22 +193,25 @@
     </string-array>
 
     <array name="material_colors">
-        <item>#AEC6CF</item>
-        <item>#DEA5A4</item>
-        <item>#779ECB</item>
-        <item>#77DD77</item>
-        <item>#af8c6e</item>
-        <item>#966FD6</item>
-        <item>#4BFE78</item>
-        <item>#93BF96</item>
-        <item>#cc85d2</item>
-        <item>#B19CD9</item>
-        <item>#FFD1DC</item>
-        <item>#FDFD96</item>
-        <item>#FFB347</item>
-        <item>#CFCFC4</item>
-        <item>#b5ef74</item>
-        <item>#ff6f6f</item>
+        <item>#a8f44336</item>
+        <item>#a8e91e63</item>
+        <item>#a89c27b0</item>
+        <item>#a8673ab7</item>
+        <item>#a83f51b5</item>
+        <item>#a82196f3</item>
+        <item>#a803a9f4</item>
+        <item>#a800bcd4</item>
+        <item>#a8009688</item>
+        <item>#a84caf50</item>
+        <item>#a88bc34a</item>
+        <item>#a8cddc39</item>
+        <item>#a8ffeb3b</item>
+        <item>#a8ffc107</item>
+        <item>#a8ff9800</item>
+        <item>#a8ff5722</item>
+        <item>#a8795548</item>
+        <item>#a89e9e9e</item>
+        <item>#a8607d8b</item>
     </array>
 
     <string-array name="attachments_actions">
